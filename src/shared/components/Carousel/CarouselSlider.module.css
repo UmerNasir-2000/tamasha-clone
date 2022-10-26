@@ -1,0 +1,12 @@
+.slider-container {
+  width: 100%;
+  height: 65vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.slider-container img {
+  border-radius: 15px;
+  margin: 20 auto;
+}
